@@ -6,7 +6,7 @@ html {
 body {
 	/* background: green; */
 	/* border: 3px solid cyan; */
-	height: 100%;
+	min-height: 100%;
 	margin: 0;
 	/* padding: 6em 6em; */
 	color: white;
