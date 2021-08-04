@@ -127,12 +127,12 @@ h2 {
 		width: 100%;
 		/* width: 680px; */
 		height: auto;
-		border: 3px solid blue;
+		/* border: 3px solid blue; */
 		box-sizing: border-box;
 	}
 
 	.top-container {
-		border: 3px solid red;
+		/* border: 3px solid red; */
 		flex-direction: column;
 		width: 600px;
 		height: 1440px;
